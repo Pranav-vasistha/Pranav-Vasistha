@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working on projects with python surrounding AI and Cybersecurity.<br>Having a keen passion and interest in developing and finding vulnerabilities and the code works of python allow me this flexibility.<br>Apart from this, an avid gamer poping out some fun arcade game apps on the go.<br>My favorite game is Undertale which is a source of inspiration to a lotta apps and games I create!
+I am working on projects with python surrounding AI and Cybersecurity.<br>Having a keen passion and interest in developing and finding vulnerabilities and the workings of python allow me this flexibility.<br>Apart from this, an avid gamer popping out some fun arcade game apps on the go.<br>My favorite game is Undertale which is a source of inspiration to a lotta apps and games I create! <br> Open to hire for wfh contracts, especially in the fields of AI and InfoSec.<br>I have working experience as a project manager, a vulnerability finder and amazon cloud system works.
 
 
 ## 🌐 Socials:
