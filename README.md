@@ -15,7 +15,6 @@ Open to WFH contracts in AI, Cybersecurity, and data-related fields. I bring exp
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pranav_vasistha) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-vasistha/)
 
 # 💻 Tech Stack:
