@@ -1,5 +1,17 @@
 # 💫 About Me:
-I am working on projects with python surrounding AI and Cybersecurity.<br>Having a keen passion and interest in developing and finding vulnerabilities and the workings of python allow me this flexibility.<br>Apart from this, an avid gamer popping out some fun arcade games on the go.<br>My favorite game is Undertale which is a source of inspiration to the apps and games I envision and create! <br> Open to hire for wfh contracts, especially in the fields of AI and InfoSec.<br>I have working experience as a project manager, a vulnerability finder and amazon cloud system works.
+As an AI and Cybersecurity enthusiast with a focus on Python projects, I'm passionate about leveraging data for operational excellence. In my role, I've implemented data-driven strategies to boost productivity, reduce costs, and enhance operational performance. My data science and analysis skills have allowed me to identify improvement areas and tailor solutions.<br>
+
+I'm committed to team empowerment, fostering a culture of innovation through mentorship and training. This has led to remarkable growth and consistently exceeding expectations.<br>
+
+My leadership thrives on cross-functional collaboration, aligning efforts with company objectives and executing strategic plans, policies, and initiatives that directly contribute to success. I prioritize transparent reporting, ensuring accountability and sharing comprehensive reports with key stakeholders.<br>
+
+Proactive risk mitigation is a key focus, swiftly addressing operational issues to mitigate potential impacts and disruptions.<br>
+
+I'm experienced in KPI tracking and automation, using dynamic Google Looker Studio reports to enhance data-driven decision-making. Scripting has allowed me to automate tasks, resulting in substantial time and resource savings.<br>
+
+I've also created custom reports for department directors and team leads, facilitating performance oversight and data-driven decision-making. Additionally, I've developed a bot for alerting in case of pipeline breakdowns, enhancing task management.<br>
+
+Open to WFH contracts in AI, Cybersecurity, and data-related fields. I bring experience in project management, vulnerability identification, and Amazon cloud systems. Let's connect and collaborate on exciting data projects!
 
 
 ## 🌐 Socials:
