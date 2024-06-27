@@ -15,8 +15,8 @@ Open to WFH contracts in data-related fields. I bring experience in project mana
 
 
 ## 🌐 Socials and more:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-vasistha/) <br/>
-[![Fiverr Profile](https://img.shields.io/badge/Fiverr-00b53e?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/pranav_vasistha?public_mode=true) <br/>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-vasistha/)   
+[![Fiverr Profile](https://img.shields.io/badge/Fiverr-00b53e?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/pranav_vasistha?public_mode=true)   
 [![Portfolio - dashboards](https://img.shields.io/badge/Portfolio-9900b5?style=for-the-badge&logo=Portfolio&logoColor=white)](https://tinyurl.com/TheDataGuy)
 
 # 💻 Tech Stack:
